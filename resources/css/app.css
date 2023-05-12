@@ -1,0 +1,8 @@
+@import 'bootstrap';
+@import './style';
+@import './login';
+@import './register';
+@import './card-detail';
+@import './aboutUs';
+@import './navbar';
+@import './swiper';
